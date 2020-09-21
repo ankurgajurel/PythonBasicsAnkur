@@ -9,5 +9,3 @@ class Robot:
 r1 = Robot("Ankur", 55)
 r2 = Robot("Aakriti", 80)
 
-class Person:
-    def __init__(self):
